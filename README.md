@@ -14,4 +14,4 @@ He usado el GPIO14, GPIO27 en BCM y el Pin# 2 de 5v.
 
 De forma opcional, he instalado un led que me indica cuando se está realizando la medición. Al igual que el haber añadido dos transistores (uno para el led y otro para el sensor) para que no estén constantemente con alimentación dichos dispositivos.
 
-### Instalacion
+### Instalación
