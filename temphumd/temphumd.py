@@ -25,7 +25,6 @@ try:
 			i = 19
 			while i != 0:
 				dato = "DATO_" + str(i)
-				print(dato)
 
 				fecha = config.get(dato, lista[0])
 				hora = config.get(dato, lista[1])
@@ -103,14 +102,6 @@ try:
 		#Guarda los datos
 		with open("/home/pi/Python/TempHumd/medicion.cfg", "w") as f:
 			config.write(f)
-
-		#Imprime valores
-		"""
-		for seccion in config.sections():
-			print("\n[%s]" % seccion)
-			for item in config.items(seccion):
-				print(item[0], ":", item[1])
-		"""
 
 		sleep(300)
 
