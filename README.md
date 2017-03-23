@@ -10,7 +10,7 @@ Como se puede apreciar, registra la **fecha** del día, **hora** de la última v
 ### Configuración de Pines
 He usado el GPIO14, GPIO27 en BCM y el Pin# 2 de 5v.
 
-![](https://lh3.googleusercontent.com/T0kUoP1BeESn91RYOjoWN2sC57ybCwfYiDVqfIdVedn8pBgXDGkY0LYnJHDzpkLEB7Xj9iEZ2Mo-TXc=w1920-h950)
+![](https://lh5.googleusercontent.com/h7K-eghK5vcnBi9CA80uo8ZafroW5sy3Jz_DeFra3dKDDj8ieLWJtFa7t0aBBYUdD_yO-tZS6Nzw2u0=w1920-h950)
 
 De forma opcional, he instalado un led que me indica cuando se está realizando la medición. Al igual que el haber añadido dos transistores (uno para el led y otro para el sensor) para que no estén constantemente con alimentación dichos dispositivos.
 
