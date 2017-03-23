@@ -12,8 +12,12 @@ He usado el GPIO14, GPIO27 en BCM y el Pin# 2 de 5v.
 
 ![](https://lh5.googleusercontent.com/h7K-eghK5vcnBi9CA80uo8ZafroW5sy3Jz_DeFra3dKDDj8ieLWJtFa7t0aBBYUdD_yO-tZS6Nzw2u0=w1920-h950)
 
-De forma opcional, he instalado un led que me indica cuando se está realizando la medición. Al igual que el haber añadido dos transistores (uno para el led y otro para el sensor) para que no estén constantemente con alimentación dichos dispositivos.
+De forma opcional, he instalado un led que me indica cuando se está realizando la medición. Al igual que el haber añadido dos transistores NPN2222 (uno para el led y otro para el sensor) para que no estén constantemente con alimentación dichos dispositivos.
 
 ### Instalación
 Copia carpeta "temphumd" a "~/temphumd"
 Ejecutar o añadir a la lista de procesos a ejecutar en inicio
+#
+#### Agradeciminetos
+
+Gracias a https://szazo.github.io/ por su gran aporte https://github.com/szazo/DHT11_Python
